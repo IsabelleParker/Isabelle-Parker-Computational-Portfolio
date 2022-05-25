@@ -19,6 +19,7 @@ In addition, each project uses a variety of tools, including:
 
 The difficulty of the physics concepts displayed in these projects is at the college undergraduate level.
 Each project was written in Python, and commented/formatted in a way that the reader will find all required background and assumptions made throughout the project.
+
 ---
 ### Projects
 
