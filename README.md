@@ -24,3 +24,9 @@ Each project was written in Python, and commented/formatted in a way that the re
 ### Projects
 
 Below are links to the Jupyter Notebook of each project along with a short description of the project. A more in-depth description is contained within the Notebook.
+
+[Diatomic Ideal Gas Modeling](./Project0/Diatomic_Gas_Model.ipynb)
+
+[Classical and Relativistic Acceleration](./Project1/IsabelleProj01.ipynb)
+
+[Investgating Coupled Oscillators](./Project3/IsabelleProj03.ipynb)
