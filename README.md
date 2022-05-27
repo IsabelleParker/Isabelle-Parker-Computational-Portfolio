@@ -31,5 +31,5 @@ Below are links to the Jupyter Notebook of each project along with a short descr
 
 [Investgating Coupled Oscillators](./Project3/IsabelleProj03.ipynb) - Oscillators are a concept covered extensively throughout most, if not all physics courses. This notebook starts with a chain of coupled oscillators, and walks through how the change of various parameters can affect the fundamental frequency of the chain.
 
-[Effects of Solar Winds on Orbiting Satellites]() - This notebook walks through the effects of outside forces on the orbits of satellite, in this case, solar winds.
+[Effects of Solar Winds on Orbiting Satellites](./ProjectFinal/PHY2200Final.ipynb) - This notebook walks through the effects of outside forces on the orbits of satellite, in this case, solar winds.
 Numerical integration is used to find the postion of the satellite over time, as well as allow for tracking of the total energy of the satellite to determine if an orbit it is in is stable or not.
